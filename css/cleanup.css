@@ -1,1 +1,26 @@
 /* write your override styles here */
+#body {
+    display: none;
+}
+#head {
+    display: none;
+}
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+
+
+    display: none;
+}
+#html {
+    display: none;
+
+}
+
+#div {
+    display: none;
+}
+#script { 
+    display: none;
+}
+.wall {
+    display: none;
+}
